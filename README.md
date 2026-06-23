@@ -23,7 +23,7 @@ A complete business analysis for a web-based student consultation booking system
 ---
 
 ## 📂 Project Artifacts
-- [📄 Business Requirements Specification (PDF)](README.md)
+- [📄 Business Requirements Specification (PDF)](Business Requirements Specification Document StudentConsultationBooking Web Based Prototype_v1.0_SelloaneLetsoara.pdf)
 
 ---
 
